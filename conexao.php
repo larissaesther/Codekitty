@@ -1,6 +1,6 @@
 <?php
 	$servidor="localhost";
-	$banco="dbsistemacontatods";
+	$banco="dbsistemacontatods.sql";
 	$usuario="root";
 	$senha="";
 

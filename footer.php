@@ -2,7 +2,7 @@
 
  
 
-  <footer class="footer">
+ <footer class="footer">
     <div class="footer-icons">
       <a href="#">
         <i class="fa-brands fa-instagram fa-2x"></i>   
